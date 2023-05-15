@@ -3,4 +3,4 @@ Geographic features are crucial for navigation and spatial knowledge, taking man
 
 To rank streets in a street network and determine their hierarchical importance in the city network, one proposed method is to use the network measure of betweenness centrality. This measure determines the likelihood that a street lies on a shortest path between two other streets in the city. With more trips made by a wayfinder in the city, the betweenness centrality is expected to better approximate the wayfinder's experience of the urban environment. 
 
-For more details on the research behind this code, check out my thesis [here](https://lnkd.in/diu_Y9sp).
+For more details on the research behind this code, check out my paper [here](https://www.sciencedirect.com/science/article/pii/S0198971521001393) and my thesis [here](https://lnkd.in/diu_Y9sp).
